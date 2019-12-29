@@ -16,12 +16,16 @@ https://drive.google.com/open?id=1MUqrhIpDuLlW6PGNjlnis5bm7t9KhBtE
 
 # Examples
 SIFT features matched from the selected region of first image with the displayed SIFT feature in the second image:
+![Img1](/Img1.JPG)
 
 Visual vocabulary examples for 2 words:
+![Img2](/Img2.JPG)
 
 Top 5 most similar frames to the 1st image detected using bag of words histogram matching:
+![Img3](/Img3.JPG)
 
 Pattern detected in various other frames:
+![Img4](/Img4.JPG)
 
 
 # File summary
