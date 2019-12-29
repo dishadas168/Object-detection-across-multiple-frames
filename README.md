@@ -15,7 +15,7 @@ Required Mat files
 https://drive.google.com/open?id=1MUqrhIpDuLlW6PGNjlnis5bm7t9KhBtE
 
 # File summary
-provided_files:
+**provided_files:**
 
 loadDataExample.m: Run this first and make sure you understand the data format. It is a script that
 shows a loop of data files, and how to access each descriptor. It also shows how to use some of the
@@ -35,7 +35,7 @@ row is a data point
 
 kmeansML.m: a faster k-means implementation that takes the data points as columns.
 
-helper_files:
+**helper_files:**
 
 bagOfWords.m: This function calculates the bag of words histograms for given image name and returns the histogram
 
@@ -43,7 +43,7 @@ similarityScore.m: Calculates Similarity Score of two bag of words histograms
 
 storeHists.m: Script stores the bag of words histograms in a mat file
 
-Executables:
+**Executables:**
 
 rawDescriptorMatches.m: This script allows a user to select a region of interest in one frame, and then match descriptors in that region to descriptors in the second image based on Euclidean distance in SIFT space. The selected region is displayed.
 
