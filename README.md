@@ -14,6 +14,16 @@ https://filebox.ece.vt.edu/~F13ECE5554/resources/PS4_material/PS4Frames.zip
 Required Mat files
 https://drive.google.com/open?id=1MUqrhIpDuLlW6PGNjlnis5bm7t9KhBtE
 
+# Examples
+SIFT features matched from the selected region of first image with the displayed SIFT feature in the second image:
+
+Visual vocabulary examples for 2 words:
+
+Top 5 most similar frames to the 1st image detected using bag of words histogram matching:
+
+Pattern detected in various other frames:
+
+
 # File summary
 **provided_files:**
 
